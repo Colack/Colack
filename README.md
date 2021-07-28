@@ -1,3 +1,29 @@
-Hi! Im colack. I program mostly in Javascript, and node, but sometimes i program in other languages.
+# Welcome
 
-If you want me to write a program for you, you can email me!
+*Hello!* 
+
+Im **Colack** and im a computer programmer.
+Im really into making video games/random programs.
+
+## Programming Languages
+
+* Fluent in Javascript
+* Knows some C#
+* Good at html
+* Great with node
+* Markdown..... Meh
+
+### About me:
+
+* I like anime
+* I like computers
+* I prefer amd to intel
+* I have a youtube channel
+
+#### My Tasks
+
+- [x] Post a discord bot
+- [x] Make a personal discord bot
+- [ ] Write a useful program
+- [ ] Make a game
+- [ ] Exist
