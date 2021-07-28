@@ -27,3 +27,8 @@ Im really into making video games/random programs.
 - [ ] Write a useful program
 - [ ] Make a game
 - [ ] Exist
+
+##### Plans And The Future
+
+Honestly, im mostly thinking of making bots, and making programs. 
+I dont really have much other than that.
