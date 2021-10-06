@@ -24,9 +24,12 @@ Im really into making video games/random programs.
 
 - [x] Post a discord bot
 - [x] Make a personal discord bot
-- [ ] Write a useful program
-- [ ] Make a game
-- [ ] Exist
+- [x] Write a useful program
+- [x] Make a game
+- [x] Exist
+- [ ] Make some more repositories
+- [ ] Right some more useful programs
+- [ ] Explore more programming languages
 
 ##### Plans And The Future
 
