@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 🤝 I’m looking for help with [Orbital](https://github.com/Colack/Orbital)
+- 🤝 I’m looking for help with [Gold](https://github.com/Gold-Language/Gold-Language)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Colack](https://github.com/Colack)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ColackAlpha@gmail.com**
 
-- ⚡ Fun fact **My Profile Picture was made with the PVZ Zombatar.**
+- ⚡ Fun fact **Javascript is my favorite language!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
