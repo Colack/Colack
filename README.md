@@ -6,10 +6,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Colackk&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colack&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Colack&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=FlyN-Nick's%20Most%20Used%20Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colack&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&exclude_repo=lineChecker&langs_count=9&hide_border=true&hide=ShaderLab&layout=compact&card_width=445&custom_title=Colack's%20Most%20Used%20Languages"/>
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/colack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="colack" height="30" width="40" /></a>
