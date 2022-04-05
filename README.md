@@ -3,21 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colack" alt="colack" /></a> </p>
 
-- 🔭 I’m currently working on **Gold-Language**
-
-- 🌱 I’m currently learning **C#**
-
-- 🤝 I’m looking for help with [Gold](https://github.com/Gold-Language/Gold-Language)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Colack](https://github.com/Colack)
-
-- 📝 I regularly write articles on [https://www.discord.gg/4sGB3HDj87](https://www.discord.gg/4sGB3HDj87)
-
-- 💬 Ask me about **Gold-Language**
-
-- 📫 How to reach me **ColackAlpha@gmail.com**
-
-- ⚡ Fun fact **Javascript is my favorite language!**
+<a href="https://github-readme-stats.vercel.app/api?username=Colackk&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Colack&count_private=true&show_icons=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=fff&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"/>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
