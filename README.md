@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Colack
-#### I'm an Software Engineer
-![I'm an Software Engineer](https://github.com/Shining-Gold-Studios/Gold-Language/blob/main/Gold-JS/Gold-Loader/modules/images/Gold-Cover.png?raw=true)
+# Hi there 👋, I'm Colack
+## I'm an Software Engineer
 
 I mostly program Software and Dumb Little Games, but sometimes I actually get things to work.
 
