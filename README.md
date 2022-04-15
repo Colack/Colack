@@ -5,7 +5,7 @@
 
 I mostly program Software and Dumb Little Games, but sometimes I actually get things to work.
 
-Skills: JS / Python / Java / Batch file / Markdown / Html 
+Skills: JS / Python / Java / Batch file / Markdown / HTML
 
 - 🔭 I’m currently working on [Gold](https://github.com/Shining-Gold-Studios/Gold-Language) 
 - 🌱 I’m currently learning C/C# 
