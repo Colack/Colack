@@ -24,4 +24,6 @@ Oh yeah, I'm also a huge anime fan.
     
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Colack&show_icons=true"/> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colack&show_icons=true&locale=en&layout=compact" alt="colack" /></p>
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Colack&column=-1"/> </p>
