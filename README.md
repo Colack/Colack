@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="a" /> </p>
 
-<h1 align="center">Hey, I'm Colack</h1>
+<h1 align="center">Hey, I'm Colack 👋,</h1>
 
 I'm just a small programmer, making big programs. I mostly code in C/JavaScript, but I'm trying to learn TypeScript and Python at the moment.    
 I am the lead programmer/founder of [Shining-Gold-Studios](https://github.com/Shining-Gold-Studios).  
