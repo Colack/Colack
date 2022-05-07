@@ -8,7 +8,7 @@
 </p>
 <br>
    
-<p align="center"> <img src="https://www.youtube.com/watch?v=lTT1z6YAr08" alt="a" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/19/1a/ce/191acee2f29e6a53cc06d7ee170483f5.gif">
 
 <h1 align="center">Hey, I'm Colack 👋,</h1>
 
