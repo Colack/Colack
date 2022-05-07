@@ -8,7 +8,7 @@
 </p>
 <br>
    
-<p align="center"> <img src="https://c.tenor.com/ODSOi541axsAAAAC/joseph-joseph-joestar.gif" alt="a" /> </p>
+<p align="center"> <img src="https://tenor.com/view/jojo-jojos-bizarre-adventure-bloody-stream-joseph-joestar-gif-22615141" alt="a" /> </p>
 
 <h1 align="center">Hey, I'm Colack 👋,</h1>
 
