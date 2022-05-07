@@ -8,9 +8,7 @@
 </p>
 <br>
    
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<p align="center"> <img src="https://www.youtube.com/watch?v=lTT1z6YAr08" alt="a" /> </p>
 
 <h1 align="center">Hey, I'm Colack 👋,</h1>
 
