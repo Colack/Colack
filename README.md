@@ -7,7 +7,6 @@
    <img src="https://komarev.com/ghpvc/?username=colack&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 <p align="center">
-   <img src="https://github.com/Colack/Colack/blob/main/images/image.png?raw=true">
-   <img src="http://i1.kym-cdn.com/photos/images/newsfeed/001/035/645/dae.gif">
+   <img src="https://github.com/Colack/Colack/blob/main/images/3dgifmaker31145.gif?raw=true">
 </p>        
 <br>
