@@ -6,7 +6,3 @@
    <img src="https://img.shields.io/github/followers/Colack.svg?style=social&label=Follow&maxAge=2592000">
    <img src="https://komarev.com/ghpvc/?username=colack&label=Profile%20views&color=0e75b6&style=flat">
 </p>
-<p align="center">
-   <img src="https://github.com/Colack/Colack/blob/main/images/3dgifmaker31145.gif?raw=true">
-</p>        
-<br>
