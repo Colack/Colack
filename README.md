@@ -6,3 +6,7 @@
    <img src="https://badgen.net/github/commits/Naereen/Strapdown.js">
    <img src="https://img.shields.io/github/followers/Colack.svg?style=social&label=Follow&maxAge=2592000">
 </p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colack&theme=tokyonight">
+</p>
