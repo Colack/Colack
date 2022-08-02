@@ -1,5 +1,1 @@
-![](https://img.shields.io/tokei/lines/github/colack/beans) - [Beans](https://github.com/Colack/Beans)   
-![](https://img.shields.io/tokei/lines/github/colack/worldbott) - [WorldBott](https://github.com/Colack/WorldBott)   
-![](https://img.shields.io/tokei/lines/github/colack/projects) - [Projects](https://github.com/Colack/projects)    
-![](https://img.shields.io/tokei/lines/github/colack/colack.github.io) - [Colack.github.io](https://github.com/Colack/Colack.github.io)    
-![](https://img.shields.io/tokei/lines/github/colack/colack) - [This File](https://github.com/Colack/Colack)
+im coding atm
