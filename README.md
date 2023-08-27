@@ -5,13 +5,13 @@
 <h1 align="center">👋 Hey there, I'm Jack Spencer!</h1>
 
 <p align="center">
-    A Passionate developer exploring numerous languages and crafting exciting projects. You might recognize me from <a href="https://colack.me/CubeDood1.html">CubeDood</a> or some of my other works.
+    A Passionate developer exploring numerous languages and crafting exciting projects. You might recognize me from <a href="https://colack.github.io/CubeDood1.html">CubeDood</a> or some of my other works.
 </p>
 
 <p align="center">
     🚀 Explore my creations: 
     <a href="https://github.com/colack">GitHub</a> | 
-    <a href="https://colack.me">Website</a>
+    <a href="https://colack.github.io">Website</a>
 </p>
 
 <p align="center">~ Cheers!</p>
