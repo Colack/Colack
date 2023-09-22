@@ -18,7 +18,7 @@
     <a href="https://github.com/Colack/py-chat">Python Chatroom</a> |
     <a href="https://colack.github.io">Website</a> |
     <a href="https://github.com/Colack/License">Ludwig License</a> |
-    <a href="https://github.com/Colack/Beans">Beans!</a>
+    <a href="https://github.com/Colack/Beans">Beans!</a> |
     <a href="https://colack.github.io/games/cd1.html">CubeDood</a>
 </p>
 
