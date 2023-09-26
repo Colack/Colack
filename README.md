@@ -1,11 +1,3 @@
-<h1 align="left">👋 Hey there, I'm Jack Spencer!</h1>
-
-<p align="center">
-    A Passionate developer exploring numerous languages and crafting exciting projects. You might recognize me from <a href="https://colack.github.io/games/cd1.html">CubeDood</a> or some of my other works.
-</p>
-
----
-
 <a>
   <img width="40%" src="https://lanyard.cnrad.dev/api/744931200346357862" align="right" />
 </a>
