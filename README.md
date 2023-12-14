@@ -1,5 +1,5 @@
 <a>
-  <img width="40%" src="https://lanyard.cnrad.dev/api/744931200346357862" align="right" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colack&layout=compact&theme=dark" align="right" />
 </a>
 
 <samp>
