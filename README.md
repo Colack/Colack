@@ -13,7 +13,7 @@
     <a href="https://youtube.com/@colack">Youtube Channel</a>
 </p>
 
-<p align="center">- Colack/</p>
+<p align="center">Contact me @ spencerjack646@gmail.com for hire.</p>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=colack&label=Profile%20views&color=0e75b6&style=flat" alt="colack" />
