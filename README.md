@@ -2,10 +2,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colack&layout=compact&theme=dark" align="right" />
 </a>
 
-<samp>
-    <h3>Links:</h3>
-</samp>
-
 <p align="center">
     <a href="https://colack.github.io">Website</a> |
     <a href="https://colack.github.io/todo.txt">To-Do List</a> |
