@@ -3,8 +3,8 @@
 </a>
 
 <p align="center">
-    <a href="https://colack.github.io">Website</a> |
-    <a href="https://colack.github.io/todo.txt">To-Do List</a> |
+    <a href="https://watermelonkatana.com">Website</a> |
+    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a> |
     <a href="https://youtube.com/@colack">Youtube Channel</a>
 </p>
 
