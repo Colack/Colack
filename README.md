@@ -19,3 +19,11 @@
     <img src="https://skillicons.dev/icons?i=c,html,java,js,py,v" />
   </a>
 </p>
+
+--- 
+
+C & C++ are my preferred languages, as I have the most experience with them.   
+Github Copilot should be free for everyone as it is based off of most open source repositories.   
+<br>
+Daily Quote: `#include errors detected. Please update your includePath.`
+Weekly Wisdom: `Try coding in a language you aren't particularly good at.`
