@@ -27,3 +27,30 @@ Github Copilot should be free for everyone as it is based off of most open sourc
 <br>
 Daily Quote: `#include errors detected. Please update your includePath.`     
 Weekly Wisdom: `Try coding in a language you aren't particularly good at.`
+<br>
+<br>
+
+I'm currently working on updating old code and reviving old projects.   
+Here is what I'm working on:
+- [ ] Makima V0.3-Windows-C
+- [ ] Makima V0.1-Windows-C++
+- [ ] Website Update (You can visit the beta [here](https://watermelonkatana.com/new/index).)
+- [ ] CubeDood Remastered
+- [ ] Bunsen V0.2
+- [ ] ApplesC, GAF, & ApplesDocs
+- [ ] Py-Chat Security Update
+- [ ] RecceBoon
+- [ ] Orbital Revival
+- [ ] BitCity
+- [ ] OtherWorld (Possibility. Expect something like otherworld.watermelonkatana.com)
+- [ ] Message-Filter V1.1
+- [ ] SATQTSTC Trilogy
+- [ ] Chronicles of the Elemental Blades
+- [ ] Studio Fighters!
+- [ ] CodeHS Answer Repo Re-Write
+
+List is in no particular order. I have no dates for anything on the list. I'm just going to be working on most of these as I want, so expect updates to be rare and random.
+<br>
+<br>
+
+- Colack
