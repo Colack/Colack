@@ -21,8 +21,7 @@
 
 --- 
 
-Student Developer working on Open Source projects. | CommanderVideo!   
-Étudiant développeur travaillant sur des projets Open Source. | CommandantVidéo!    
-オープンソース プロジェクトに取り組む学生開発者。 | 指揮官ビデオ!
-<br>
-`Dude why the fuck is my coding laptop running so slow?!`     
+Student Developer working on Open Source projects.<br>
+Étudiant développeur travaillant sur des projets Open Source.<br>
+オープンソース プロジェクトに取り組む学生開発者。<br> <br>
+`CommanderVideo! | CommandantVidéo! | 指揮官ビデオ!`
