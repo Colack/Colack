@@ -4,8 +4,7 @@
 
 <p align="center">
     <a href="https://watermelonkatana.com">Website</a> |
-    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a> |
-    <a href="https://youtube.com/@colack">Youtube Channel</a>
+    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a>
 </p>
 
 <p align="center">Contact me @ spencerjack646@gmail.com for hire.</p>
