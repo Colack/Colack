@@ -1,5 +1,5 @@
 <a>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colack&layout=compact&theme=dark" align="right" />
+  <img width="40%" src="https://giffiles.alphacoders.com/453/4534.gif" align="right" />
 </a>
 
 <p align="center">
