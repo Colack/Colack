@@ -21,8 +21,8 @@
 
 --- 
 
-C & C++ are my preferred languages, as I have the most experience with them.   
-Github Copilot should be free for everyone as it is based off of most open source repositories.   
+Student Developer working on Open Source projects. | CommanderVideo!   
+Étudiant développeur travaillant sur des projets Open Source. | CommandantVidéo!    
+オープンソース プロジェクトに取り組む学生開発者。 | 指揮官ビデオ!
 <br>
-Daily Quote: `Dude why the fuck is my coding laptop running so slow?!`     
-Weekly Wisdom: `Try coding in a language you aren't particularly good at.`
+`Dude why the fuck is my coding laptop running so slow?!`     
