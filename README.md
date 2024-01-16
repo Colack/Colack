@@ -4,7 +4,8 @@
 
 <p align="center">
     <a href="https://watermelonkatana.com">Website</a> |
-    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a>
+    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a> |
+    <a href="https://github.com/Colack/Colack/blob/main/STATS.md">README Stats</a>
 </p>
 
 <p align="center">Contact me @ spencerjack646@gmail.com for hire.</p>
