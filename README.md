@@ -1,5 +1,5 @@
 <a>
-  <img width="40%" src="https://giffiles.alphacoders.com/453/4534.gif" align="right" />
+  <img width="40%" src="https://media.tenor.com/K6_fjyafEuMAAAAM/banana-man-tally-hall.gif" align="right" />
 </a>
 
 <p align="center">
@@ -22,7 +22,5 @@
 
 --- 
 
-Student Developer working on Open Source projects.<br>
-Étudiant développeur travaillant sur des projets Open Source.<br>
-オープンソース プロジェクトに取り組む学生開発者。<br> <br>
-`CommanderVideo! | CommandantVidéo! | 指揮官ビデオ!`
+Hi, I'm Jack. I like BIT.TRIP Runner, C, and Banana Man.<br>
+`Do you want a Banana?`
