@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="https://watermelonkatana.com">Website</a> |
-    <a href="https://watermelonkatana.com/todo.txt">To-Do List</a> |
     <a href="https://github.com/Colack/Colack/blob/main/STATS.md">README Stats</a> |
     <a href="https://github.com/Colack/Colack/blob/main/PROJECTLIST.md">Project List</a>
 </p>
@@ -23,5 +22,5 @@
 
 --- 
 
-Hi, I'm Jack. I like BIT.TRIP Runner, C, and Banana Man.<br>
+Hi, I'm Jack. I like BIT.TRIP Runner, Peggle, Banana Man, and C.<br>
 `Do you want a Banana?`
