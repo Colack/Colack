@@ -23,4 +23,4 @@
 --- 
 
 Hi, I'm Jack. I like BIT.TRIP Runner, Peggle, Banana Man, and C.<br>
-`Do you want a Banana?`
+Code while listening to classic music you sick fuck.
