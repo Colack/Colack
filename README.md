@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://watermelonkatana.com">Website</a> |
-    <a href="https://github.com/Colack/Colack/blob/main/STATS.md">README Stats</a> |
+    <a href="https://github.com/Colack/Colack/blob/main/STATS.md">README Stats</a>
 </p>
 
 <p align="center"> 
