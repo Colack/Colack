@@ -2,6 +2,7 @@ I'm kind of everywhere.
 
 - Discord: @colack
 - Twitter: @colackcolack
+- Instagram: @colackcolack
 - Reddit: u/colackbtw
 - Youtube: [Colack](https://www.youtube.com/@colack)
 - Youtube (Topic): [Colack - Topic](https://www.youtube.com/channel/UCa32Y7OmFbFanJwkNYBJ4Gw)
@@ -10,6 +11,11 @@ I'm kind of everywhere.
 - Speedrun: [Colack](https://www.speedrun.com/users/Colack)
 - Steam: [Colack](https://steamcommunity.com/id/colack)
 - Epic Games: @colack btw
+- Chess.com: [Colack](https://www.chess.com/member/colack)
+- Chess.com: [JackSSucksAtChess](https://www.chess.com/member/jackssucksatchess)
+- cult3d: [Colack](https://cults3d.com/en/users/colack/downloads)
+- gravatar: [Colack](https://gravatar.com/colack)
+- MonkeyType: [Colack](https://monkeytype.com/profile/colack)
 - LeetCode: [Colack](https://leetcode.com/colack/)
 - picoCTF: [Colack](https://play.picoctf.org/users/colack)
 - HackerRank: [uniformkitten281](https://www.hackerrank.com/profile/UniformKitten281)
