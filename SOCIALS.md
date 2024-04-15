@@ -27,6 +27,7 @@ I'm kind of everywhere.
 - DevTo: [Colack](https://dev.to/colack/)
 - PcPartPicker: [Colack_Alpha](https://pcpartpicker.com/user/Colack_Alpha/)
 - TheMatchBox: [colackbtw](https://thematchbox.gg/user/colackbtw)
+- Slippi: [cola](https://slippi.gg/user/cola-669)
 - Facebook: [Jack Spencer](https://www.facebook.com/profile.php?id=61556660584139)
 - Work Email: colackalpha@gmail.com
 - Personal Email: spencerjack646@gmail.com
