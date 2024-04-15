@@ -10,3 +10,8 @@ Feel free to message me about doing anything.
 - [Gists](https://gists.github.com/Colack)
 - [Socials](https://github.com/Colack/Colack/blob/main/SOCIALS.md)
 - [Site](https://colack.github.io)
+  
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colack&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colack&hide_progress=true&theme=radical)
