@@ -10,6 +10,7 @@ Feel free to message me about doing anything.
 - [Gists](https://gists.github.com/Colack)
 - [Socials](https://github.com/Colack/Colack/blob/main/SOCIALS.md)
 - [Site](https://colack.github.io)
+- [Certificates](https://github.com/Colack/Colack/blob/main/CERTIFICATES.md)
   
 <br>
 
