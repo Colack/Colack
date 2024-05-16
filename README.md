@@ -4,7 +4,7 @@ I work on Video Games, Programs, and Linux among other things.
 
 Feel free to message me about doing anything.
 
-https://github.com/Colack/Colack/assets/76410718/7e0f2e53-f175-4ef6-9df0-28dbb5a44c00
+<!-- https://github.com/Colack/Colack/assets/76410718/7e0f2e53-f175-4ef6-9df0-28dbb5a44c00 -->
 
 ## Information SuperHighway
 
