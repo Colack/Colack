@@ -14,3 +14,10 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 I code really poorly made applications that I use on a daily basis.
+
+### currently working on
+- [PIC-Mo](https://github.com/DragonFireGames/PIC-Mo) or [PIC-Mo Website](https://picmo.onrender.com/)
+- [acrylicOS](https://github.com/HHS-Coding-Club/acrylicOS)
+- [HHC Homepage](https://github.com/HHS-Coding-Club/homepage) or [HHC Website](https://hhs-coding-club.github.io/homepage/)
+- [Sprig-Edit](https://github.com/Colack/Sprig-Edit)
+- CubeDood: ReCubed ( A demo will be out by the end of summer. )
