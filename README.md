@@ -14,7 +14,7 @@
 I code really poorly made applications that I use on a daily basis.
 
 ### 🚧 Currently Working On
-- [PIC-Mo](https://github.com/DragonFireGames/PIC-Mo) or [PIC-Mo Website](https://picmo.onrender.com/)
+- [WatermelonKatana](https://watermelonkatana.com)
 - [acrylicOS](https://github.com/HHS-Coding-Club/acrylicOS)
 - [HHC Homepage](https://github.com/HHS-Coding-Club/homepage) or [HHC Website](https://hhs-coding-club.github.io/homepage/)
 - [Sprig-Edit](https://github.com/Colack/Sprig-Edit)
