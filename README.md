@@ -18,17 +18,17 @@
 
 ## About Me
 
-I am a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. I'm a firm believer in the open source community and environment as it provides opportunity for more diverse input; creating a better world for future generations.
+I'm Jack Spencer, a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. I hold a firm belief in the open source community and environment as it provides opportunity for more diverse input; creating a better world for future generations.
 
 <br>
 
-I have experience as the *current* president of [Hanford High School's](https://hanford.rsd.edu/) programming club, which has given me opportunities for leadership, mentoring new programmers, and working on maintaining a positive environment for programmers of all levels, whether beginner or expert.
+Experiences I have, are journeys such as being the *current* president of [Hanford High School's](https://hanford.rsd.edu/) programming club, which has given me opportunities for leadership, mentoring new programmers, and working on maintaining a positive environment for programmers of all levels, whether beginner or expert.
 
 ## Experience
 
-My experience as a self-taught developer has spanned across 8 years. I have learned many skills, through trial and error, and working on projects for a diverse group of people. These projects include, websites, web-applications, software, information technology, and infastructure.
+My experience as a self-taught developer has spanned across 8 years. Leading me to develop many skills, through trial and error, and working on projects for a diverse group of people. I have capability and experience in all levels of development, leading to me having a full-stack skills. 
 
-<br>
+This would be represented by my frontend skills, such as designing and developing websites and web-applications. My backend skills help with creating software servers and robots for social media. I also am able to work on middleware, such as infastructure, API routes, and data management.
 
 The way that I interpret new information when it comes to learning new skills grants me the ability to aquire new skills very rapidly. I have spent major amounts of time and resources doing in-person courses, online classes, and reading college level material related to programming, all to improve my skills as a developer.
 
@@ -48,7 +48,7 @@ The long awaited reboot to the CubeDood series.
 
 ## Development Environment
 
-Although I have utilized multiple Operating Systems, I lean towards linux environments, specifically **Garuda Linux**, an Arch-based Linux environment, as its powerful command-line tools and package management system helps make programming more efficient for me. I also appreciate the open source and free desktop environments.
+With my usage of multiple Operating Systems, I still tend to lean towards linux environments, specifically **Garuda Linux**, an Arch-based Linux environment, as its powerful command-line tools and package management system helps make programming more efficient for me. I also appreciate the open source and free desktop environments.
 
 ## GitHub Statistics
 
