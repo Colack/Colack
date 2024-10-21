@@ -1,4 +1,4 @@
-# Development Portfolio
+# Jack ~ Developer, Contributor, and Designer
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,15 +18,27 @@
 
 ## About Me
 
-I am a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. My experience spans various programming languages and technologies, enabling me to approach problems from multiple perspectives.
+I am a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. I'm a firm believer in the open source community and environment as it provides opportunity for more diverse input; creating a better world for future generations.
+
+<br>
+
+I have experience as the *current* president of [Hanford High School's](https://hanford.rsd.edu/) programming club, which has given me opportunities for leadership, mentoring new programmers, and working on maintaining a positive environment for programmers of all levels, whether beginner or expert.
+
+## Experience
+
+My experience as a self-taught developer has spanned across 8 years. I have learned many skills, through trial and error, and working on projects for a diverse group of people. These projects include, websites, web-applications, software, information technology, and infastructure.
+
+<br>
+
+The way that I interpret new information when it comes to learning new skills grants me the ability to aquire new skills very rapidly. I have spent major amounts of time and resources doing in-person courses, online classes, and reading college level material related to programming, all to improve my skills as a developer.
 
 ## Current Projects
 
 #### [WatermelonKatana](https://github.com/dragonfiregames/watermelonkatana)
-A website made for programmers wanting to pulish games on a free and open environment.
+A open-source website made for brand new developers wanting a open environment to publish their games.
 
 #### [CubeDood: ReCubed](https://github.com/hhs-coding-club/recubed)
-The long awaited reboot to the CubeDOod series.
+The long awaited reboot to the CubeDood series.
 
 ## Technical Skills
 
@@ -36,7 +48,7 @@ The long awaited reboot to the CubeDOod series.
 
 ## Development Environment
 
-I primarily utilize **Garuda Linux** as my development environment, leveraging its powerful command-line tools and package management system to facilitate efficient coding practices.
+Although I have utilized multiple Operating Systems, I lean towards linux environments, specifically **Garuda Linux**, an Arch-based Linux environment, as its powerful command-line tools and package management system helps make programming more efficient for me. I also appreciate the open source and free desktop environments.
 
 ## GitHub Statistics
 
@@ -46,4 +58,8 @@ I primarily utilize **Garuda Linux** as my development environment, leveraging i
 
 ---
 
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration opportunities or inquiries!
+Reach out to me:
+
+<p align="center">
+  uniformkitten281@gmail.com | colack@watermelonkatana.com | @colackbtw ~ @colack ~ @colackcolack
+</p>
