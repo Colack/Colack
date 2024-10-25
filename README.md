@@ -23,7 +23,7 @@ Experiences I have, are journeys such as being the *current* president of [Hanfo
 
 ## Experience
 
-My experience as a self-taught developer has spanned across 8 years. Leading me to develop many skills, through trial and error, and working on projects for a diverse group of people. I have capability and experience in all levels of development, leading to me having a full-stack skills. 
+My experience as a self-taught developer has spanned across 4 years, leading me to develop many skills, through trial and error, and working on projects for a diverse group of people. I have capability and experience in all levels of development, leading to me having a full-stack skills. 
 
 This would be represented by my frontend skills, such as designing and developing websites and web-applications. My backend skills help with creating software servers and robots for social media. I also am able to work on middleware, such as infastructure, API routes, and data management.
 
