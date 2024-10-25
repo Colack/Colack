@@ -48,6 +48,7 @@ The long awaited reboot to the CubeDood series.
 ## Development Environment
 
 With my usage of multiple Operating Systems, I still tend to lean towards linux environments, specifically **Garuda Linux**, an Arch-based Linux environment, as its powerful command-line tools and package management system helps make programming more efficient for me. I also appreciate the open source and free desktop environments.
+
 ---
 
 Reach out to me:
