@@ -19,7 +19,6 @@
 ## About Me
 
 I'm Jack Spencer, a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. I hold a firm belief in the open source community and environment as it provides opportunity for more diverse input; creating a better world for future generations.
-
 <br>
 
 Experiences I have, are journeys such as being the *current* president of [Hanford High School's](https://hanford.rsd.edu/) programming club, which has given me opportunities for leadership, mentoring new programmers, and working on maintaining a positive environment for programmers of all levels, whether beginner or expert.
