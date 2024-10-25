@@ -14,8 +14,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
----
-
 ## About Me
 
 I'm Jack Spencer, a passionate developer committed to creating practical applications that enhance productivity and streamline workflows. I hold a firm belief in the open source community and environment as it provides opportunity for more diverse input; creating a better world for future generations.
