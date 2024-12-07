@@ -136,13 +136,8 @@
   <img src="https://img.shields.io/badge/-Memes-FF69B4?style=flat-square&logo=meme&logoColor=black">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
-  <img src="https://img.shields.io/badge/-World%20Dominating%20Skills-ECEFF4?style=flat-square&logo=crown&logoColor=black">
-  <img src="https://img.shields.io/badge/-Certified%20Shitposter-FF69B4?style=flat-square&logo=pepe&logoColor=white">
   <img src="https://img.shields.io/badge/-Opera%20Browser-FF1B2D?style=flat-square&logo=opera&logoColor=white">
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/-Open%20Source%20Crazy%20Person-FCC624?style=flat-square&logo=opensourceinitiative&logoColor=black">
-  <img src="https://img.shields.io/badge/-Cat%20Enjoyer-FFD700?style=flat-square&logo=cat&logoColor=black">
-  <img src="https://img.shields.io/badge/-Sticker%20Enjoyer-FF69B4?style=flat-square&logo=smile&logoColor=white">
   <img src="https://img.shields.io/badge/-Pothead-98FB98?style=flat-square&logo=leaf&logoColor=green">
   <img src="https://img.shields.io/badge/-Femboy-FFB6C1?style=flat-square&logo=pride&logoColor=white">
   <img src="https://img.shields.io/badge/-Arch%20btw-1793D1?style=flat-square&logo=archlinux&logoColor=white">
@@ -150,29 +145,4 @@
   <img src="https://img.shields.io/badge/-Trigun-FF6347?style=flat-square&logo=gun&logoColor=white">
   <img src="https://img.shields.io/badge/-JoJo's%20Bizarre%20Adventure-8A2BE2?style=flat-square&logo=star&logoColor=white">
   <img src="https://img.shields.io/badge/-Cowboy%20Bebop-000000?style=flat-square&logo=cowboy&logoColor=white">
-  <img src="https://img.shields.io/badge/-Powered%20by%20Caffeine-2E8B57?style=flat-square&logo=caffeine&logoColor=white">
-  <img src="https://img.shields.io/badge/-404%20Not%20Found-FF0000?style=flat-square&logo=error&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL%20is%20My%20Religion-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Will%20Code%20for%20Pizza-F8A300?style=flat-square&logo=pizza&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Break%20Things-DC143C?style=flat-square&logo=breaking&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Make%20Bugs%20Disappear-4B0082?style=flat-square&logo=bug&logoColor=white">
-  <img src="https://img.shields.io/badge/-Not%20Addicted%20to%20Games-1E90FF?style=flat-square&logo=gaming&logoColor=white">
-  <img src="https://img.shields.io/badge/-Too%20Much%20FOMO-FF6347?style=flat-square&logo=fomo&logoColor=white">
-  <img src="https://img.shields.io/badge/-Gamer%20by%20Day%2C%20Sleepy%20by%20Night-00FF7F?style=flat-square&logo=gamepad&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Have%20Seen%20The%20Entire%20Internet-32CD32?style=flat-square&logo=internet&logoColor=white">
-  <img src="https://img.shields.io/badge/-YouTube%20Rabbit%20Hole%20Survivor-FF0000?style=flat-square&logo=youtube&logoColor=white">
-  <img src="https://img.shields.io/badge/-Fluent%20in%20Sarcasm-808080?style=flat-square&logo=sarcasm&logoColor=white">
-  <img src="https://img.shields.io/badge/-Too%20Cool%20for%20Normal-0000FF?style=flat-square&logo=ice&logoColor=white">
-  <img src="https://img.shields.io/badge/-Lurker%20on%204chan-4C4C4C?style=flat-square&logo=4chan&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Read%20Reddit%20More%20Than%20I%20Should-FF4500?style=flat-square&logo=reddit&logoColor=white">
-  <img src="https://img.shields.io/badge/-X%20Marks%20the%20Spot-1DA1F2?style=flat-square&logo=x&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Could%20Be%20Coding%2C%20But%20I%27m%20Here-FF1493?style=flat-square&logo=error&logoColor=white">
-  <img src="https://img.shields.io/badge/-Professional%20Keyboard%20Warrior-9C27B0?style=flat-square&logo=keyboard&logoColor=white">
-  <img src="https://img.shields.io/badge/-Will%20Fight%20You%20in%20the%20DMs-FF0000?style=flat-square&logo=message&logoColor=white">
-  <img src="https://img.shields.io/badge/-Certified%20Weeb-F0A0A0?style=flat-square&logo=anime&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%20Have%20No%20Idea%20What%20I%27m%20Doing-FFD700?style=flat-square&logo=confused&logoColor=white">
-  <img src="https://img.shields.io/badge/-A.I.%20Could%20Do%20This%20Better-0000FF?style=flat-square&logo=ai&logoColor=white">
-  <img src="https://img.shields.io/badge/-Ctrl%2BAlt%2BDel%20to%20Restart%20My%20Life-1E90FF?style=flat-square&logo=keyboard&logoColor=white">
-  <img src="https://img.shields.io/badge/-I%27m%20Just%20Here%20for%20the%20Free%20Trial-FFD700?style=flat-square&logo=free&logoColor=white">
-
 </p>
