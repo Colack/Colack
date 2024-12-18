@@ -1,6 +1,6 @@
 <div style="text-align: center; margin: 20px 0;">
   <h1>Colack</h1>
-  <p>WatermelonKatana Dev // Mandelbrot Enjoyer // Max Shitposter 18k // You don't seem to understand</p>
+  <p>Mandelbrot Enjoyer // Jack Support</p>
 </div>
 
 <hr>
@@ -126,23 +126,9 @@
   <img src="https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white">
   <img src="https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white">
-  <img src="https://img.shields.io/badge/-Persona%204%20Golden-F6E264?style=flat-square&logo=playstation&logoColor=black">
-  <img src="https://img.shields.io/badge/-Persona%205-F0001B?style=flat-square&logo=playstation&logoColor=white">
-  <img src="https://img.shields.io/badge/-Plants%20vs%20Zombies-87C03F?style=flat-square&logo=ea&logoColor=white">
-  <img src="https://img.shields.io/badge/-4chan-228B22?style=flat-square&logo=4chan&logoColor=white">
-  <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white">
-  <img src="https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/-Memes-FF69B4?style=flat-square&logo=meme&logoColor=black">
   <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white">
   <img src="https://img.shields.io/badge/-Hacker%20Rank-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
   <img src="https://img.shields.io/badge/-Opera%20Browser-FF1B2D?style=flat-square&logo=opera&logoColor=white">
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/-Pothead-98FB98?style=flat-square&logo=leaf&logoColor=green">
   <img src="https://img.shields.io/badge/-Femboy-FFB6C1?style=flat-square&logo=pride&logoColor=white">
-  <img src="https://img.shields.io/badge/-Arch%20btw-1793D1?style=flat-square&logo=archlinux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Serial%20Experiments%20Lain-FF5E8E?style=flat-square&logo=neuralnetwork&logoColor=white">
-  <img src="https://img.shields.io/badge/-Trigun-FF6347?style=flat-square&logo=gun&logoColor=white">
-  <img src="https://img.shields.io/badge/-JoJo's%20Bizarre%20Adventure-8A2BE2?style=flat-square&logo=star&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cowboy%20Bebop-000000?style=flat-square&logo=cowboy&logoColor=white">
 </p>
